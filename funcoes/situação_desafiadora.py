@@ -30,7 +30,7 @@ def mostrar_notas_cadastradas(alunos):
 alunos = {}
 while True:
     print("\nMenu:")
-    print("1. Cadastrar notas de um a1luno")
+    print("1. Cadastrar notas de um aluno")
     print("2. Mostrar notas cadastradas")
     print("3. Sair")
     opcao = input("Escolha uma opção: ")
